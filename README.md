@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center"> DEDSEC_DIRTYPY </h1>
-<h4 align="center"> DEDSEC_DIRTYPY enhances code security on Linux by renaming or obfuscating identifiers, adding complexity to deter reverse engineering.</h4>
+<h4 align="center"> DEDSEC_DIRTYPY can  improves python code security by renaming or obfuscating identifiers, adding complexity to deter reverse engineering.</h4>
 
 
 ## DESCRIPTION
