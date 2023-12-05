@@ -14,8 +14,8 @@ DEDSEC_DIRTYPY is a Linux-based tool that enhances code security by renaming or 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_DIRTYPY.git
     * cd DEDSEC_DIRTYPY
-    * pip install tabulate pystyle pycryptodome
-    * python3 dedsec_dirtypy.py
+    * pip install tabulate pystyle
+    * ./dedsec_dirtypy
 
 ### TESTED ON FOLLOWING:
 * Kali Linux
